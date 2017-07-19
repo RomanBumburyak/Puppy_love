@@ -12,3 +12,36 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
+header {
+  background-color:#ff8523;
+  height: 200px;
+
+}
+
+nav a {
+
+padding-left: 50px;
+padding-right: 25px;
+padding-top: 15px;
+padding-bottom: 15px;
+border-radius: 5px;
+margin: 1px;
+border: 1px solid white;
+
+}
+#logo img{
+  margin-bottom: 20px;
+}
+body
+{
+  background-color:#dddddd;
+  font-family: Arial;
+  }
+  h2 {
+  color: #1fabe5;
+  height:30px
+
+  }
+ul {
+  border-bottom: 1px solid grey;
+}
